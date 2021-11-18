@@ -8,3 +8,4 @@
 
 ##Sectional Changes
 
+This is the part of the git repository.
